@@ -4,7 +4,7 @@ Built air hockey app with Node.js using the socket.io web socket module that all
 
 ` How to Run
 Version:
-	- Version node node.js v8.9.4 and OS X(Apple's macOS) was used for this assignment.
+	- Version node node.js v8.9.4 and OS X(Apple's macOS) was used for this project
 
 Install:
 	- npm install
